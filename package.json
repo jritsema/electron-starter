@@ -1,0 +1,14 @@
+{
+  "name": "electron-starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.30.2"
+  }
+}
